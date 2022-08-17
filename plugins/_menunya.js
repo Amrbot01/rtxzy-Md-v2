@@ -79,9 +79,9 @@ const defaultMenu = {
 ──···────────────────···──
 
 Base Script : *BOTCAHX*
-Recode Script : *Private*
+Recode Script : *By RielGans🐤*
 
-⫹⫺ TioXd 
+⫹⫺ RielXd 
 ${'```WhatsApp Multi Device```'}
 `,
 }
@@ -188,17 +188,17 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
     let url = `https://database.tioclkp02.repl.co/IMG_20220803_172938.JPG`.trim()
     conn.sendButton(m.chat, text.trim(), wm, url,
 [
-['Creator', '.owner'],
-['Info', '.info'],
-['Script', '.sc']
+['Creator🧸', '.owner'],
+['Info📮', '.info'],
+['Script🐤', '.sc']
 ], m
 )
     /*let url = `https://database.tioclkp02.repl.co/TextPro.me_162e2a76bb2460.jpg`.trim()
-    conn.sendHydrated(m.chat, text.trim(), '⫹⫺ TioXd', null, 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL', 'Group', '', '', [
-      ['Sewa Bot', '/sewa'],
-      ['Owner', '/owner']
+    conn.sendHydrated(m.chat, text.trim(), '⫹⫺ RielXd', null, 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL', 'Group', '', '', [
+      ['Sewa Bot📩', '/sewa'],
+      ['Owner🧸', '/owner']
     ], m)*/
-  /*let url = `https://database.tioclkp02.repl.co/TextPro.me_162e2a76bb2460.jpg`.trim()
+  /*let url = `https://telegra.ph/file/cc2695cccc86cef4cb74a.jpg`.trim()
     let res = await fetch(url)
     let buffer = await res.buffer()
     let message = await prepareWAMessageMedia({ image: await (await require('node-fetch')(fotonya2)).buffer()}, { upload: conn.waUploadToServer }) 
@@ -207,38 +207,38 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
                         hydratedTemplate: {
                             imageMessage: message.imageMessage, 
                             hydratedContentText: text.trim(),
-                            hydratedFooterText:'© All Rights Reserved | BOTCAHX',
+                            hydratedFooterText:'© All Rights Reserved | ᴹᴿ᭄ Khurushi-Md ×፝֟͜×',
                             hydratedButtons: [{
                                 urlButton: {
-                                    displayText: 'Website',
+                                    displayText: 'Website📮',
                url: web
              }
 
            },
              {
              urlButton: {
-               displayText: 'Grup Bot', 
+               displayText: 'Grup Bot🤖', 
                url: gc
              }
 
            },
                {
              quickReplyButton: {
-               displayText: 'Owner',
+               displayText: 'Owner🐤',
                id: '.owner',
              }
 
            },
                {
              quickReplyButton: {
-               displayText: 'Info',
+               displayText: 'Info📶',
                id: '.info',
              }
 
            },
            {
              quickReplyButton: {
-               displayText: 'List Menu',
+               displayText: 'List Menu🔥',
                id: '.listmenu',
              }
              
