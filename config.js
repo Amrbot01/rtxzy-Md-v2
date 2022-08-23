@@ -22,7 +22,7 @@ global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //『 Tampilan Dan Lainnya 』//
 global.fotonya1 = 'https://telegra.ph/file/52c56273897fa602a6401.jpg' 
-global.fotonya2 = 'https://telegra.ph/file/cc2695cccc86cef4cb74a.jpg' 
+global.fotonya2 = 'https://telegra.ph/file/78d91b88d50ffdb889d38.jpg' 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = '© 𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏'
