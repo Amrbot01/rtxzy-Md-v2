@@ -1,34 +1,34 @@
 //Ini untuk setting Bot//
 
 //『 Utama 』 //
-global.owner = ['6282146218274'] 
-global.mods = ['6282146218274'] 
-global.prems = ['6282146218274'] 
+global.owner = ['6282154156241'] 
+global.mods = ['6282154156241'] 
+global.prems = ['6282154156241'] 
 
 //『 Info Owner 』 //
 global.nameowner = '⫹⫺ Owner'
-global.numberowner = '6282146218274'
-global.instagram = 'https://instagram.com/Rielgans12_'
-global.github = 'https://github.com/Rieltod12'
+global.numberowner = '6282154156241'
+global.instagram = 'https://instagram.com/amirbot_01'
+global.github = 'https://github.com/USER0106'
 global.dana = '-'
-global.pulsa = '6283813417529'
+global.pulsa = '082154156241'
 global.gopay = '-'
 
 //『 Info Bot 』//
-global.namebot = 'ᴹᴿ᭄ Khurushi-Md ×፝֟͜×'
+global.namebot = '𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏'
 global.gc = 'https://chat.whatsapp.com/JEDQfzMGZan4HA98wtxsNL'
-global.web = 'https://youtube.com/channel/UCOAcuUV1y9wKV8R2xMsOMmg' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
+global.web = 'https://instagram.com/amirbot_01' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '1 bulan = 10.000\n2 Minggu 7.000\n1 Minggu 5.000'
 
 //『 Tampilan Dan Lainnya 』//
-global.fotonya1 = 'https://telegra.ph/file/cc2695cccc86cef4cb74a.jpg' 
+global.fotonya1 = 'https://telegra.ph/file/52c56273897fa602a6401.jpg' 
 global.fotonya2 = 'https://telegra.ph/file/cc2695cccc86cef4cb74a.jpg' 
 global.lolkey = 'rey2k22' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
-global.wm = '© ᴹᴿ᭄ Khurushi-Md ×፝֟͜×'
+global.wm = '© 𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏'
 global.watermark = wm
-global.wm2 = '⫹⫺ ᴹᴿ᭄ Khurushi-Md ×፝֟͜×'
-global.wm3 = '© ᴹᴿ᭄ Khurushi-Md ×፝֟͜×'
+global.wm2 = '⫹⫺ 𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏'
+global.wm3 = '© 𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏'
 global.wm4 = 'Ⓛ = Limit Ⓟ = Premium'
 global.htki = '––––––『' 
 global.htka = '』––––––'
@@ -40,7 +40,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '*⫹⫺ Stiker sedang dibuat...*'
 global.packname = 'Made with'
-global.author = 'Bot WhatsApp\nᴹᴿ᭄ Khurushi-Md ×፝֟͜×'
+global.author = 'Bot WhatsApp\n𝙍𝙐𝙆𝘼 - 𝘽𝙊𝙏'
 
 //『 Apikey 』 //
 global.APIs = { // API Prefix
